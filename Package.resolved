@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
           "branch": null,
-          "revision": "98d6e72ea7e756da9f87184c7239650223f95800",
-          "version": "4.3.0"
+          "revision": "bd25f0f29620eb3aad4d7d21c08a10d5324d4894",
+          "version": "4.4.0"
         }
       },
       {
@@ -339,8 +339,8 @@
         "repositoryURL": "https://github.com/vapor/vapor.git",
         "state": {
           "branch": null,
-          "revision": "ca823e66f8efd4dec7f5b996776d0ccc4cb34585",
-          "version": "4.60.0"
+          "revision": "50599e242043edcc2ed79b2b067233efef65dbd3",
+          "version": "4.60.1"
         }
       },
       {
